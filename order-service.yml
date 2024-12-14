@@ -1,1 +1,6 @@
 
+server:
+  port: 0
+
+app:
+  message: "Welcome to Order Service! Configuration loaded from Config Server."
