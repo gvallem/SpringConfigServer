@@ -3,4 +3,4 @@ server:
   port: 8081
 
 app:
-  message: "Order Service updated! New configuration applied."
+  message: "Order Service New configuration applied now"
